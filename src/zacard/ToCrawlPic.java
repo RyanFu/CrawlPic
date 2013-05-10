@@ -1,4 +1,4 @@
-package zacard;
+﻿package zacard;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
@@ -31,7 +31,7 @@ public class ToCrawlPic {
 	FileReader in;
     LineNumberReader reader; 
 	
-	public ToCrawlPic(){
+	public ToCrawlPic1(){
 		try {	
 			
 			file=new File(filePath);
