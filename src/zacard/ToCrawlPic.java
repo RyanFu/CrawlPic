@@ -31,7 +31,7 @@ public class ToCrawlPic {
 	FileReader in;
     LineNumberReader reader; 
 	
-	public ToCrawlPic1(){
+	public ToCrawlPic(){
 		try {	
 			
 			file=new File(filePath);
