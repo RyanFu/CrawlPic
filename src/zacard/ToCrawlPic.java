@@ -18,7 +18,7 @@ import java.util.Date;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class ToCrawlPic {
+public class ToCrawlPic2 {
 	String filePath="e:\\image";//文件存放位置
 	String picList="pic.txt";
 	int num;//当前抓取的图片数量
